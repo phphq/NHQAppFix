@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Novahq.net")]
 [assembly: AssemblyProduct("NHQAppFix")]
-[assembly: AssemblyCopyright("(c)2018 Novahq.net")]
+[assembly: AssemblyCopyright("(c)2018 Scott Lucht <Novahq.net>")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
