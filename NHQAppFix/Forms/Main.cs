@@ -206,6 +206,7 @@ namespace NHQAppFix.Forms
             Form f = new MedCompat();
             f.ShowDialog();
         }
+
     }
 
 }

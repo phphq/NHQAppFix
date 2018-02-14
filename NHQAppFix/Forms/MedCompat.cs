@@ -16,5 +16,7 @@ namespace NHQAppFix.Forms
         {
             pbMedCompat.Image = Resources.MedCompat;
         }
+
     }
+
 }
